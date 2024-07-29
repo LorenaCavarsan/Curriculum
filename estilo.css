@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color: #b7d4ee;
+}
+
+h3{
+    color: #5287fa;
+}
+h1{
+    color: #5287fa;
+}
+
+.borda{
+    margin-left: 37%;
+    width: 510px;
+    border: 10px solid #fcfc8d;
+    border-radius: 10px;
+}
